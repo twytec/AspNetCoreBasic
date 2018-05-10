@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "AspNetCoreViewCreateEdit": {
+    "AspNetCoreBasic": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {

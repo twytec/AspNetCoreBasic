@@ -1,6 +1,6 @@
 using System;
 
-namespace AspNetCoreViewCreateEdit.Models
+namespace AspNetCoreBasic.Models
 {
     public class ErrorViewModel
     {
